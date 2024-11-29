@@ -1,0 +1,19 @@
+PROGRAMME exemple;
+const np ='hjhj' , nZ =3, nc=25;
+var  nb, resultat,i ,j;
+{uuuu{rrr}uu}
+DEBUT
+lire(nb,j);
+
+ ECRIRE('nb= ', nb );
+ Ecrire('j=  ',j);
+nb := 2*nz;
+SI np ALORS
+ECRIRE(nb)
+SINON
+ECRIRE(0);
+ECRIRE()
+FIN.
+
+
+
